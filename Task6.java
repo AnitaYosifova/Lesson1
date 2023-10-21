@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Zad6 {
+public class Task6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a1 = scanner.nextInt();
