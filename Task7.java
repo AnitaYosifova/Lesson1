@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Zad7 {
+public class Task7 {
 	public static void main(String[] args) {
 		int time;
 		double money;
